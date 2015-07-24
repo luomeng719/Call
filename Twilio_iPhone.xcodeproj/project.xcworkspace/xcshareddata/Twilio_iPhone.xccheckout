@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7749734-3A9A-4393-A9E2-B0E39929EDB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Twilio_iPhone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7B585F4603DF4FB6C4BEA02A9023933B7C6E2077</key>
+		<string>https://github.com/yiyuanshan/Twilio_iPhone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Twilio_iPhone.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7B585F4603DF4FB6C4BEA02A9023933B7C6E2077</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yiyuanshan/Twilio_iPhone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7B585F4603DF4FB6C4BEA02A9023933B7C6E2077</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B585F4603DF4FB6C4BEA02A9023933B7C6E2077</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Twilio_iPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
